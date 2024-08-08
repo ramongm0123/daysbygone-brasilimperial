@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Wiiki",
+            "label": "Wiki",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
