@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Wik",
+            "label": "Wiki",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
