@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: BRASIL IMPERIAL
+      text: BRASIL IMPERIAL SITE OFICIAL
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
