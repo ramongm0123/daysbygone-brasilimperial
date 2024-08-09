@@ -4,14 +4,16 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Whatsapp",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Discord",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Wiki",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,11 +39,11 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Guildas",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Brasil Imperial",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Brasil BR",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,7 +59,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "BRAZUCA",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
