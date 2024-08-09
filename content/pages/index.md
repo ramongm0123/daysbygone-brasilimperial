@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: BRASIL IMPERIAL SITE OFICIAL
-      color: text-primary
+      color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
