@@ -73,7 +73,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Registrar",
             "altText": "Sign up",
             "url": "/",
             "icon": "arrowRight",
@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Logar",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
