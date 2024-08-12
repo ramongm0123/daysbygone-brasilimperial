@@ -1,6 +1,6 @@
 ---
 title: Blog
-slug: /blog
+slug: /guildas
 numOfPostsPerPage: 2
 enableSearch: true
 topSections:
