@@ -64,7 +64,7 @@ sections:
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: false
-    showExcerpt: false
+    showExcerpt: true
     showDate: false
     showAuthor: false
     actions: []
