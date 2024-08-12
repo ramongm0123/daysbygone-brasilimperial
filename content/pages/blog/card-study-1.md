@@ -1,6 +1,6 @@
 ---
 title: Brasil Imperial
-slug: /guildas/brasil-imperial
+slug: /card-study-1
 date: '2022-01-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
