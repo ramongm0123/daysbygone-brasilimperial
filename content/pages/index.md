@@ -63,7 +63,7 @@ sections:
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
-    showThumbnail: false
+    showThumbnail: true
     showExcerpt: false
     showDate: false
     showAuthor: false
