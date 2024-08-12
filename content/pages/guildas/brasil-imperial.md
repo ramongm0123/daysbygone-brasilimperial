@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Brasil-Imperial
 sections: []
 slug: guildas/brasil-imperial
 isDraft: false
