@@ -55,7 +55,7 @@ sections:
     title:
       type: TitleBlock
       text: Guildas
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
