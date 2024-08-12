@@ -51,35 +51,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Guildas
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/life-of-our-development-team.md
-      - content/pages/blog/surround-yourself-with-right-people.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
-    showThumbnail: true
-    showExcerpt: false
-    showDate: false
-    showAuthor: false
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: shadow
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
@@ -117,6 +88,35 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Guildas
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/surround-yourself-with-right-people.md
+      - content/pages/blog/top-twenty-ways-to-save-time.md
+    showThumbnail: true
+    showExcerpt: false
+    showDate: false
+    showAuthor: false
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: shadow
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
