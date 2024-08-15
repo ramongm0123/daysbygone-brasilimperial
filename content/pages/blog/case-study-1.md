@@ -50,7 +50,16 @@ bottomSections:
         title: Ranking
         subtitle: Temos um ranking semanal
         text: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://public.flourish.studio/visualisation/18758752/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
