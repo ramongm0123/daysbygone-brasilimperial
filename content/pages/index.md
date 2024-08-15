@@ -32,6 +32,16 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - subtitle: ''
     images:
       - type: ImageBlock
@@ -102,16 +112,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
