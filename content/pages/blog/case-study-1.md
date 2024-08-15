@@ -103,5 +103,4 @@ styles:
 type: PostLayout
 isDraft: false
 ---
-\<div style="text-align: center"># **GUILDA PRINCIPAL**\</div>
-
+**GUILDA PRINCIPAL**
