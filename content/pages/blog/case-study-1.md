@@ -105,7 +105,7 @@ styles:
       - pr-5
     textAlign: center
     borderColor: border-light
-    borderStyle: none
+    borderStyle: dashed
     borderWidth: 8
     borderRadius: medium
     flexDirection: col
