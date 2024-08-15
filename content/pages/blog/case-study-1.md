@@ -31,7 +31,9 @@ bottomSections:
         text: |+
           **3 PACKS**
 
-          **18K+ DAYS**
+          **20K+ DAYS**
+
+          ##### Ou seja promovido pela Brasil BR
 
         actions: []
         colors: bg-neutral-fg-dark
