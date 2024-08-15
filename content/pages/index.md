@@ -96,7 +96,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/case-study-1.md
     showThumbnail: true
     showExcerpt: false
     showDate: false
