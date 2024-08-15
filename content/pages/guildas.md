@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Brasil Imperial
+title: Guildas
 sections: []
 slug: guildas
 isDraft: false
