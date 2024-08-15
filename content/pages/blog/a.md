@@ -12,7 +12,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-isFeatured: false
+isFeatured: true
 colors: bg-light-fg-dark
 styles:
   self:
