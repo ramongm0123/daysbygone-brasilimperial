@@ -82,7 +82,7 @@ sections:
             borderRadius: medium
         url: /images/Hero_Lilith.webp
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Hero_Lilith.webp
         altText: Image alt text placeholder
         elementId: ''
         styles:
