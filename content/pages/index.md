@@ -75,7 +75,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
       - type: ImageBlock
-        altText: Image alt text placeholder
+        altText: ''
         elementId: ''
         styles:
           self:
