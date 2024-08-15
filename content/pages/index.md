@@ -34,9 +34,6 @@ sections:
           - pr-16
   - subtitle: ''
     images:
-      - url: /images/br.jpg
-        altText: Empathy logo
-        type: ImageBlock
       - type: ImageBlock
         url: /images/br.jpg
         altText: Image alt text placeholder
