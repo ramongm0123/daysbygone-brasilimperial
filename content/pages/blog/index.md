@@ -2,7 +2,7 @@
 title: Blog
 slug: /guildas
 numOfPostsPerPage: 2
-enableSearch: true
+enableSearch: false
 topSections: []
 styles:
   title:
