@@ -35,14 +35,14 @@ sections:
   - subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/bra-removebg-preview.png
+        url: /images/imp-removebg-preview.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/imp-removebg-preview.png
+        url: /images/bra-removebg-preview.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
