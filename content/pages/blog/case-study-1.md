@@ -120,9 +120,5 @@ styles:
 type: PostLayout
 isDraft: false
 ---
-# **REQUISITOS:**
 
-### 3 Packs
-
-### 18k+ days
 
