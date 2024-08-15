@@ -1,5 +1,5 @@
 ---
-title: Brasil Imperial
+title: /case-study-1
 slug: guildas/brasil-imperial
 date: '2022-01-05'
 excerpt: >-
