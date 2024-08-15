@@ -34,6 +34,13 @@ sections:
           - pr-16
   - subtitle: ''
     images:
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
