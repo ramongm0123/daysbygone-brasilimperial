@@ -49,7 +49,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/imp.jpg
+        url: /images/imp-removebg-preview.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
