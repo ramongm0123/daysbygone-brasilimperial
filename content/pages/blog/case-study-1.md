@@ -56,7 +56,7 @@ bottomSections:
             altText: ''
             url: 'https://public.flourish.studio/visualisation/18758752/'
             showIcon: true
-            icon: chevronBigLeft
+            icon: chevronBigRight
             iconPosition: left
             style: secondary
             elementId: ''
