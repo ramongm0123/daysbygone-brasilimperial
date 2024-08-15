@@ -52,7 +52,7 @@ bottomSections:
         text: ''
         actions:
           - type: Button
-            label: Get started
+            label: Clique para ver
             altText: ''
             url: 'https://public.flourish.studio/visualisation/18758752/'
             showIcon: false
