@@ -107,7 +107,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: medium
     flexDirection: col
 type: PostLayout
 isDraft: false
