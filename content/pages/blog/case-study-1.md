@@ -57,7 +57,7 @@ bottomSections:
             url: 'https://public.flourish.studio/visualisation/18758752/'
             showIcon: true
             icon: play
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
         colors: bg-neutral-fg-dark
