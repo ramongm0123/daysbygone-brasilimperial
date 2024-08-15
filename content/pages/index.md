@@ -42,7 +42,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/bra-removebg-preview.png
+        url: /images/br-removebg-preview.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
