@@ -39,5 +39,3 @@ isDraft: false
 
 ### 18k+ days
 
-###
-
