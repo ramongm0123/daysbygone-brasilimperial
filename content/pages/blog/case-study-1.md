@@ -78,7 +78,7 @@ bottomSections:
         altText: ''
         url: 'https://chat.whatsapp.com/HUkjafOhTiV9adqjyng1tj'
         showIcon: false
-        icon: arrowRight
+        icon: chevronBigLeft
         iconPosition: right
         style: primary
         elementId: ''
