@@ -42,37 +42,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/imp-removebg-preview.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/br-removebg-preview.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/bra-removebg-preview.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
@@ -112,6 +81,37 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/imp-removebg-preview.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/br-removebg-preview.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/bra-removebg-preview.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: DividerSection
     title: Divider
     elementId: ''
