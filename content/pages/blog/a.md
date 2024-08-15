@@ -18,7 +18,6 @@ styles:
   self:
     flexDirection: row
 type: PostLayout
-author: content/data/person1.json
 isDraft: true
 ---
 
