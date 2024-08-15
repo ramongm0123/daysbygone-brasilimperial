@@ -26,7 +26,7 @@ bottomSections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: MINIMOS
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
