@@ -74,7 +74,7 @@ bottomSections:
             flexDirection: row
     actions:
       - type: Button
-        label: ''
+        label: Entrar (Se indentifique)
         altText: ''
         url: 'https://chat.whatsapp.com/HUkjafOhTiV9adqjyng1tj'
         showIcon: false
