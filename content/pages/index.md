@@ -35,7 +35,7 @@ sections:
   - subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/br.jpg
+        url: /images/bra-removebg-preview.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
