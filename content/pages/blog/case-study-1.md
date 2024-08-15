@@ -103,5 +103,5 @@ styles:
 type: PostLayout
 isDraft: false
 ---
-#### GUILDA PRINCIPAL
+\<div style="text-align: center">## GUILDA PRINCIPAL\</div>
 
