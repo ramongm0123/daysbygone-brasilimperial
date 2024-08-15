@@ -55,7 +55,7 @@ bottomSections:
             label: Clique para ver
             altText: ''
             url: 'https://public.flourish.studio/visualisation/18758752/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
