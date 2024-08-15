@@ -37,12 +37,6 @@ sections:
       - url: /images/br.jpg
         altText: Empathy logo
         type: ImageBlock
-      - type: ImageBlock
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
