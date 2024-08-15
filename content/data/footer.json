@@ -4,12 +4,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Brasil Imperial - **Days Bygone**\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "GUILDAS",
         "links": [
             {
-                "label": "Features",
+                "label": "Brasil Imperial",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Brasil BR",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +26,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "BRAZUCA",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,20 +37,12 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "INFORMAÇÕES",
         "links": [
             {
-                "label": "Careers",
+                "label": "Wikis",
                 "altText": "careers page",
                 "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -103,7 +95,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Feito com [Netlify Create](https://www.netlify.com/platform/create/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
