@@ -48,7 +48,7 @@ bottomSections:
             justifyContent: center
       - type: FeaturedItem
         title: Ranking
-        subtitle: Engineering
+        subtitle: Temos um ranking semanal
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
