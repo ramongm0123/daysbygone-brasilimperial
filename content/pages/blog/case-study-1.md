@@ -1,7 +1,7 @@
 ---
 title: Brasil Imperial
 slug: case-study-1
-date: '0001-01-20'
+date: '0002-01-20'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
