@@ -37,9 +37,6 @@ sections:
       - url: /images/br.jpg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
