@@ -18,7 +18,7 @@ bottomSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: REQUISITOS
+      text: INFORMAÇÕES
       color: text-dark
       styles:
         self:
