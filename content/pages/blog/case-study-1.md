@@ -29,9 +29,9 @@ bottomSections:
         title: Requisitos
         subtitle: ''
         text: |+
-          #### 3 PACKS
+          **3 PACKS**
 
-          #### 18K+ DAYS
+          **18K+ DAYS**
 
         actions: []
         colors: bg-neutral-fg-dark
