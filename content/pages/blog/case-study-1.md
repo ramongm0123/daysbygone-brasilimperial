@@ -78,7 +78,7 @@ bottomSections:
         altText: ''
         url: 'https://chat.whatsapp.com/HUkjafOhTiV9adqjyng1tj'
         showIcon: true
-        icon: play
+        icon: vimeo
         iconPosition: right
         style: primary
         elementId: ''
