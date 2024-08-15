@@ -3,7 +3,7 @@ type: PageLayout
 title: Brasil-Imperial
 sections: []
 slug: guildas/brasil-imperial
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: Landing Page
