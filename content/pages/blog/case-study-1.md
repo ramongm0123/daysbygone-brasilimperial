@@ -58,7 +58,7 @@ bottomSections:
             showIcon: true
             icon: play
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         colors: bg-neutral-fg-dark
         styles:
