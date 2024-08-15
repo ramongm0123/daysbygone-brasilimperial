@@ -106,7 +106,7 @@ styles:
     textAlign: center
     borderColor: border-light
     borderStyle: none
-    borderWidth: 0
+    borderWidth: 8
     borderRadius: medium
     flexDirection: col
 type: PostLayout
