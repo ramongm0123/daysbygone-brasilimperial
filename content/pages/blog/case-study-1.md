@@ -15,7 +15,7 @@ featuredImage:
       borderRadius: large
   type: ImageBlock
 bottomSections: []
-isFeatured: false
+isFeatured: true
 colors: bg-light-fg-dark
 styles:
   self:
