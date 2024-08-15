@@ -13,7 +13,7 @@ sections:
       discord, wikis traduzidas e muito mais!
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/Screenshot_7.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
