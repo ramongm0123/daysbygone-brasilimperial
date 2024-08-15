@@ -8,8 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Wikis, Requisitos e Guildas'
-    text: |
-      A maior guilda BR do days bygone
+    text: >
+      A maior guilda BR do days bygone, com três guildas, grupo no whatsapp,
+      discord, wikis traduzidas e muito mais!
     actions:
       - label: Get started
         altText: ''
