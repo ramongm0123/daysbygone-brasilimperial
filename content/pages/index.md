@@ -80,6 +80,7 @@ sections:
         styles:
           self:
             borderRadius: medium
+        url: /images/Hero_Lilith.webp
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
