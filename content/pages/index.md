@@ -35,7 +35,7 @@ sections:
   - subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Imagem do WhatsApp de 2024-08-15 à(s) 19.26.22_be489313.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
