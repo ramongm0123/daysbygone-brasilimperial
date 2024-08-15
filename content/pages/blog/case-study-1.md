@@ -104,7 +104,7 @@ styles:
       - pb-5
       - pr-5
     textAlign: center
-    borderColor: border-light
+    borderColor: border-dark
     borderStyle: dashed
     borderWidth: 8
     borderRadius: medium
