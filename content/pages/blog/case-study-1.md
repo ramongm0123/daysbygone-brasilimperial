@@ -72,7 +72,16 @@ bottomSections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://chat.whatsapp.com/HUkjafOhTiV9adqjyng1tj'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
