@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Brasil BR",
-                    "url": "blog/case-study-2",
+                    "url": "https://dbgbrasil-imperial.netlify.app/blog/case-study-2/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
