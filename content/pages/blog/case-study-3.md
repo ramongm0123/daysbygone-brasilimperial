@@ -111,6 +111,7 @@ seo:
   type: Seo
   metaTitle: BRAZUCA
   addTitleSuffix: false
+  socialImage: /images/Screenshot_7.png
 ---
 ### **GUILDA TERCEARIA**
 
