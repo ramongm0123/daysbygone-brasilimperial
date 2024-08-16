@@ -113,6 +113,7 @@ type: PostLayout
 seo:
   type: Seo
   addTitleSuffix: false
+  socialImage: /images/imp1-removebg-preview.png
 ---
 ### **GUILDA SECUNDARIA**
 
