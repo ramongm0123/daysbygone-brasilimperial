@@ -112,6 +112,7 @@ styles:
 type: PostLayout
 seo:
   type: Seo
+  addTitleSuffix: false
 ---
 ### **GUILDA SECUNDARIA**
 
