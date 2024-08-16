@@ -106,7 +106,7 @@ styles:
     textAlign: center
     borderColor: border-dark
     borderStyle: dashed
-    borderWidth: 1
+    borderWidth: 0
     borderRadius: none
     flexDirection: col
 type: PostLayout
