@@ -75,7 +75,7 @@
         {
             "label": "Days Bygone",
             "altText": "Sign up",
-            "url": "/",
+            "url": "https://daysbygone.co/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
