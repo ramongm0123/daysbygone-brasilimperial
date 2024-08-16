@@ -80,7 +80,8 @@
             "icon": "shoppingBag",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": true
         },
         {
             "label": "Home",
