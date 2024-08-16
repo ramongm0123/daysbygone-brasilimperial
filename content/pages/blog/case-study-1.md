@@ -116,6 +116,8 @@ seo:
   metaTitle: Brasil Imperial
   addTitleSuffix: false
   socialImage: /images/Screenshot_7.png
+  metaTags:
+    - type: MetaTag
 ---
 ### **GUILDA PRINCIPAL**
 
