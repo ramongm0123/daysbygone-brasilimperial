@@ -28,13 +28,8 @@ bottomSections:
       - type: FeaturedItem
         title: Requisitos
         subtitle: ''
-        text: |+
-          **3 PACKS**
-
-          **20K+ DAYS**
-
-          ##### Ou seja promovido pela Brasil BR
-
+        text: |
+          ****
         actions: []
         colors: bg-neutral-fg-dark
         styles:
