@@ -129,5 +129,7 @@ seo:
   socialImage: /images/Screenshot_7.png
   type: Seo
   addTitleSuffix: false
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
