@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Brasil BR",
-                    "url": "/case-study-2",
+                    "url": "blog/case-study-2",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
