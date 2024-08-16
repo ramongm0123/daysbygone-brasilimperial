@@ -16,13 +16,6 @@ featuredImage:
   type: ImageBlock
 bottomSections:
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: INFORMAÇÕES
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     items:
       - type: FeaturedItem
