@@ -28,8 +28,9 @@ bottomSections:
       - type: FeaturedItem
         title: Requisitos
         subtitle: ''
-        text: |
-          ****
+        text: |+
+          ***
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
