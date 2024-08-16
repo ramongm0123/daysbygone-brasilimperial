@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Days Bygone",
-            "altText": "Sign up",
+            "altText": "",
             "url": "https://daysbygone.co/",
             "icon": "arrowRight",
             "iconPosition": "right",
