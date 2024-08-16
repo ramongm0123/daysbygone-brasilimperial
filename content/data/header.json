@@ -30,9 +30,9 @@
             "type": "Link"
         },
         {
-            "label": "Wiki",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Equipe",
+            "altText": "",
+            "url": "/staff",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
