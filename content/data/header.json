@@ -32,7 +32,7 @@
         {
             "label": "Equipe",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/staff",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
