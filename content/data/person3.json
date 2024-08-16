@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "PushHardOrDieEZ",
     "role": "Job title",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "bio": "",
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar1.svg",
