@@ -131,5 +131,6 @@ seo:
   addTitleSuffix: false
   metaTags:
     - type: MetaTag
+      property: 'og:image'
 type: PageLayout
 ---
