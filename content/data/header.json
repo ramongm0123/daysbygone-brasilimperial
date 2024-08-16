@@ -60,7 +60,7 @@
                 },
                 {
                     "label": "BRAZUCA",
-                    "url": "https://dbgbrasil-imperial.netlify.app/blog/case-study-3/",
+                    "url": "/blog/case-study-3/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
