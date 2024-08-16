@@ -107,6 +107,8 @@ styles:
     flexDirection: col
 type: PostLayout
 isDraft: false
+seo:
+  type: Seo
 ---
 ### **GUILDA TERCEARIA**
 
