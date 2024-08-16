@@ -111,6 +111,12 @@ styles:
     flexDirection: col
 type: PostLayout
 isDraft: false
+seo:
+  type: Seo
+  metaTitle: Brasil Imperial
+  addTitleSuffix: false
+  socialImage: /images/Screenshot_7.png
+  metaTags: []
 ---
 ### **GUILDA PRINCIPAL**
 

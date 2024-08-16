@@ -110,6 +110,11 @@ styles:
     borderRadius: x-large
     flexDirection: col
 type: PostLayout
+seo:
+  type: Seo
+  addTitleSuffix: false
+  socialImage: /images/Screenshot_7.png
+  metaTitle: Brasil BR
 ---
 ### **GUILDA SECUNDARIA**
 
