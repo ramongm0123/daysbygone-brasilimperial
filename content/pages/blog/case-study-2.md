@@ -114,6 +114,7 @@ seo:
   type: Seo
   addTitleSuffix: false
   socialImage: /images/imp1-removebg-preview.png
+  metaTitle: Brasil BR
 ---
 ### **GUILDA SECUNDARIA**
 
