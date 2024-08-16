@@ -77,7 +77,7 @@
             "label": "Days Bygone",
             "altText": "",
             "url": "https://daysbygone.co/",
-            "icon": "arrowRight",
+            "icon": "shoppingBag",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
