@@ -131,4 +131,3 @@ seo:
   addTitleSuffix: false
 type: PageLayout
 ---
-<link rel="icon" href="https://www.flaticon.com/br/icone-gratis/teste_124727.ico" type="image/x-icon" />
