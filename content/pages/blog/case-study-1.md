@@ -114,6 +114,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Brasil Imperial
+  addTitleSuffix: false
 ---
 ### **GUILDA PRINCIPAL**
 
