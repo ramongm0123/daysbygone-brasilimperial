@@ -131,3 +131,4 @@ seo:
   addTitleSuffix: false
 type: PageLayout
 ---
+<link rel="icon" href="URL_DO_ICONE.ico" type="image/x-icon" />
