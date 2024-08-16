@@ -110,6 +110,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: BRAZUCA
+  addTitleSuffix: false
 ---
 ### **GUILDA TERCEARIA**
 
