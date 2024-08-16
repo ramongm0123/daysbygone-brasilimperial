@@ -29,11 +29,7 @@ bottomSections:
         title: Requisitos
         subtitle: ''
         text: |+
-          **3 PACKS**
-
-          **20K+ DAYS**
-
-          ##### Ou seja promovido pela Brasil BR
+          **2K+ DAYS**
 
         actions: []
         colors: bg-neutral-fg-dark
