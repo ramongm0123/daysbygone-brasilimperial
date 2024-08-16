@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/imp1-removebg-preview.png
+  url: /images/imp1.jpg
   altText: Case study 1
   styles:
     self:
