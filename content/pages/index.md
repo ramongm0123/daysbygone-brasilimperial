@@ -124,9 +124,10 @@ sections:
           - pb-20
           - pr-20
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Home
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/imp1-removebg-preview.png
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
