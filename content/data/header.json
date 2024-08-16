@@ -56,7 +56,7 @@
                     "url": "/blog/case-study-2/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
-                    "style": "primary",
+                    "style": "secondary",
                     "type": "Link"
                 },
                 {
