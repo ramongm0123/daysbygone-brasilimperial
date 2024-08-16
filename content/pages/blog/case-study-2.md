@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/d25ed3509d8bbf5bd8dc8317e46fbfdf.webp
+  url: /images/br-removebg-preview.png
   altText: Case study 2
   styles:
     self:
@@ -95,7 +95,7 @@ bottomSections:
       subtitle:
         textAlign: center
 isFeatured: false
-colors: bg-light-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     padding:
@@ -107,7 +107,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: x-large
     flexDirection: col
 type: PostLayout
 ---

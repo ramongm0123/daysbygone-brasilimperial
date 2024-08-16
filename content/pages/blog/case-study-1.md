@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/d25ed3509d8bbf5bd8dc8317e46fbfdf.webp
+  url: /images/imp1-removebg-preview.png
   altText: Case study 1
   styles:
     self:
@@ -72,7 +72,16 @@ bottomSections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions: []
+    actions:
+      - type: Button
+        label: Entrar (Se identifique)
+        altText: ''
+        url: 'https://chat.whatsapp.com/HUkjafOhTiV9adqjyng1tj'
+        showIcon: true
+        icon: send
+        iconPosition: right
+        style: primary
+        elementId: ''
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
@@ -86,7 +95,7 @@ bottomSections:
       subtitle:
         textAlign: center
 isFeatured: false
-colors: bg-light-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     padding:
@@ -95,10 +104,10 @@ styles:
       - pb-5
       - pr-5
     textAlign: center
-    borderColor: border-light
-    borderStyle: none
+    borderColor: border-dark
+    borderStyle: dashed
     borderWidth: 0
-    borderRadius: none
+    borderRadius: x-large
     flexDirection: col
 type: PostLayout
 isDraft: false

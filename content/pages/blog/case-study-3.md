@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/d25ed3509d8bbf5bd8dc8317e46fbfdf.webp
+  url: /images/bra-removebg-preview.png
   altText: Case study 3
   styles:
     self:
@@ -70,8 +70,8 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-isFeatured: true
-colors: bg-light-fg-dark
+isFeatured: false
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     padding:
@@ -83,9 +83,10 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: none
+    borderRadius: x-large
     flexDirection: col
 type: PostLayout
+isDraft: false
 ---
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.

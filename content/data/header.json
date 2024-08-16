@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Whatsapp",
-            "url": "/pricing",
+            "url": "https://chat.whatsapp.com/HUkjafOhTiV9adqjyng1tj",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -23,7 +23,7 @@
         {
             "label": "Discord",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "https://discord.com/invite/8cfzRRs6N",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Brasil Imperial",
-                    "url": "/",
+                    "url": "/case-study-1",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Brasil BR",
-                    "url": "/",
+                    "url": "/case-study-2",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -60,7 +60,7 @@
                 },
                 {
                     "label": "BRAZUCA",
-                    "url": "/",
+                    "url": "/case-study-3",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -73,16 +73,16 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Registrar",
-            "altText": "Sign up",
-            "url": "/",
+            "label": "Days Bygone",
+            "altText": "",
+            "url": "https://daysbygone.co/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
         },
         {
-            "label": "Logar",
+            "label": "Home",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
