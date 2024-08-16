@@ -78,7 +78,7 @@
             "altText": "",
             "url": "https://daysbygone.co/",
             "icon": "arrowLeft",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "secondary",
             "type": "Button",
             "showIcon": true
