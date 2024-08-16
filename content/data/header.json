@@ -31,7 +31,7 @@
         },
         {
             "label": "Equipe",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/staff",
             "icon": "arrowRight",
             "iconPosition": "right",
