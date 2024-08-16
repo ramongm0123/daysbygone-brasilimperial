@@ -113,6 +113,7 @@ type: PostLayout
 isDraft: false
 seo:
   type: Seo
+  metaTitle: Brasil Imperial
 ---
 ### **GUILDA PRINCIPAL**
 
