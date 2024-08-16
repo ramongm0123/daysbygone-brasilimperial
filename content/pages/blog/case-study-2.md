@@ -107,7 +107,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: large
+    borderRadius: x-large
     flexDirection: col
 type: PostLayout
 ---
