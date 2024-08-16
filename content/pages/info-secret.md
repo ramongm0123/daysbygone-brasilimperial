@@ -3,7 +3,7 @@ type: PageLayout
 title: Escondido
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Piadas internas
     items:
       - type: FeaturedItem
         title: >-
