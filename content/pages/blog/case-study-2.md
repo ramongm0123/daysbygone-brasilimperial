@@ -110,6 +110,8 @@ styles:
     borderRadius: x-large
     flexDirection: col
 type: PostLayout
+seo:
+  type: Seo
 ---
 ### **GUILDA SECUNDARIA**
 
