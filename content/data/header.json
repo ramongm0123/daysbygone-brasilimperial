@@ -13,17 +13,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Link",
-            "label": "Links",
-            "altText": "",
-            "url": "/blog",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Whatsapp",
             "url": "/pricing",
             "icon": "arrowRight",
