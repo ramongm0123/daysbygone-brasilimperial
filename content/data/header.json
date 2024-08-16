@@ -86,7 +86,7 @@
         {
             "label": "Home",
             "url": "/",
-            "icon": "arrowRight",
+            "icon": "arrowLeft",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
