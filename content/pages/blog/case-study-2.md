@@ -31,9 +31,9 @@ bottomSections:
         text: |+
           **3 PACKS**
 
-          **20K+ DAYS**
+          **5K+ DAYS**
 
-          ##### Ou seja promovido pela Brasil BR
+          ##### Ou seja promovido pela BRAZUCA
 
         actions: []
         colors: bg-neutral-fg-dark
