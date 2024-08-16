@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/d25ed3509d8bbf5bd8dc8317e46fbfdf.webp
+  url: /images/bra-removebg-preview.png
   altText: Case study 3
   styles:
     self:
