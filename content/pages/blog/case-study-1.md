@@ -95,7 +95,7 @@ bottomSections:
       subtitle:
         textAlign: center
 isFeatured: false
-colors: bg-light-fg-dark
+colors: bg-neutral-fg-dark
 styles:
   self:
     padding:
